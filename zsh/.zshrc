@@ -75,6 +75,7 @@ plugins=(
 	safe-paste
 	web-search
 	copyfile
+	jsontools
 	#zsh-syntax-highlighting
 	zsh-autosuggestions
 )
